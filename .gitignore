@@ -1,0 +1,6 @@
+__pycache__
+env
+pylogus.egg-info
+build
+dist/
+.gitlab-ci-local/

@@ -1,10 +1,3 @@
-# pylogus
-
-Formatted log for python
-
-Usage example:
-
-```python
 import logging
 
 from pylogus import logger_init
@@ -19,4 +12,3 @@ def example():
 
 if __name__ == "__main__":
     example()
-```
